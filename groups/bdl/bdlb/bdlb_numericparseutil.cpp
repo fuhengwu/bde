@@ -12,6 +12,7 @@ BSLS_IDENT_RCSID(bdlb_numericparseutil_cpp, "$Id$ $CSID$")
 #include <bsls_platform.h>
 #include <bslmf_assert.h>
 
+#include <bsl_cmath.h>
 #include <bsl_cstdlib.h>  // strtod
 #include <bsl_clocale.h>  // setlocale
 
